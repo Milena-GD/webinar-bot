@@ -148,6 +148,19 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Database
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[codz]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
 # Rope project settings
 .ropeproject
 
